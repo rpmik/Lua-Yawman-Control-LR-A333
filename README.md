@@ -21,7 +21,7 @@ X-Plane 12 FlyWithLua Script for Multifunction Yawman Arrow Controls
 # Installation
 Note that the current script does not modify your axes. You'll need to set up your Yawman Arrow's axes as you like.
 
-Save _LR A330 Yawman Multipress.lua_ to /X-Plane 12/Resources/plugins/FlyWithLua/Scripts
+Save _LR A333 Yawman Multipress.lua_ to /X-Plane 12/Resources/plugins/FlyWithLua/Scripts
 
 Assignments closely matches Yawman's PMDG 777 mappings but there are notable differences. See Yawman's [discord](https://discord.gg/dcpTc5KP).
 
